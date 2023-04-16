@@ -1,7 +1,8 @@
-##Lab5
+##Lab
+
 Download the project from the Github URL or clone it using the following command
 
-git clone "Project URL" and in this case it is git clone https://github.com/mvelagapudi2022/Lab5/
+git clone "Project URL" and in this case it is git clone https://github.com/pratapt51080/myapp
 
 This command will create the project folder and all the files will be cloned to the current working directory
 
